@@ -8,7 +8,7 @@
 ### One key data point that should be emphasized in analyzing these graphs is the difference in slope. Those who make less than $30,000 have a steeper slope, indicating that there are 1. less workers in this category and 2. there is higher variation amongst salaries. Regarding those who make more than $30,000, salaries are much more consistent and gradual, with the exception of the acceleration at the very highest level of salary.
 
 #### These graphics and data were obtained through https://data.baltimorecity.gov/. In order to sort the data, I downloaded data sets for employee salary for 2017 and 2018. Then, I sorted the data into two categories, one with less than $30,000 salaries and one with more than $30,000. I used a linear regression line to clearly demonstrate the patterns on each graph.
-#### You can find the data I used from Opportunity Atlas, as well as information regarding minimum wages, below.
+#### You can find the data I used below.
 #### 2017 Data: https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2017/fh59-3d3c
 #### 2018 Data: https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2018/biyh-j8tc
 #### Poverty level Data: https://aspe.hhs.gov/poverty-guidelines
